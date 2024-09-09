@@ -1,0 +1,8 @@
+.player {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url('/assets/Mario Paper Mario-Style.png');
+    background-position: 0 0;
+    animation: walk 0.5s steps(3) infinite;
+}

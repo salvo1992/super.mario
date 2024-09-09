@@ -1,0 +1,14 @@
+.power-up {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}
+
+.power-up.star { background-color: yellow; }
+.power-up.fire { background-color: red; }
+.power-up.ice { background-color: blue; }
+.power-up.leaf { background-color: green; }
+.power-up.wings { background-color: white; }
+.power-up.mushroom-small { background-color: lightgreen; }
+.power-up.mushroom-medium { background-color: orange; }
+.power-up.mushroom-large { background-color: darkred;width: 20PX;height: 20PX; }
